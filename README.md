@@ -14,9 +14,6 @@ I am dedicated, dilligent, and attentive to my clients' needs, always striving t
 # Skills
 - **Languages**: English, Korean
 - **Specializations**: Tehnical manuals, Essay, Document, News article, Video
-<h2>Purpose</h2>
-
-The purpose of this project is to gain a strong understanding of various data structures and algorithms, learn how to implement and handle different methods and systems in `C#` , and test them using NUnit to ensure their correctness and efficiency.
 
 # Sample Work
 
