@@ -1,9 +1,9 @@
  
- # [Chungman PARK] - Translator
+ # [Chungman PARK] - Essay
 
-# Sample Work
+# English
 
-* ### Example of Code [Click here](samples/Essay/README.md)
+![Image](https://github.com/user-attachments/assets/f0b550f9-5418-4954-87c4-d34489643493)
 
 
 
