@@ -17,9 +17,9 @@ I am dedicated, dilligent, and attentive to my clients' needs, always striving t
 
 # Sample Work
 
-* ### Example of Code [Click here](samples/Essay/README.md)
+* ### Essay [Click here](samples/Essay/README.md)
 
-* ### Example of Code [Click here](samples/Article/README.md)
+* ### Article [Click here](samples/Article/README.md)
 
 
 
