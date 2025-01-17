@@ -19,5 +19,7 @@ I am dedicated, dilligent, and attentive to my clients' needs, always striving t
 
 * ### Example of Code [Click here](samples/Essay/README.md)
 
+* ### Example of Code [Click here](samples/Article/README.md)
+
 
 
