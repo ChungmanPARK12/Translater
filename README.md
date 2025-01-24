@@ -29,7 +29,7 @@ I look forward to the opportunity to collaborate and support your translation ne
 
 # Skills
 - **Languages**: English, Korean
-- **Specializations**: Technical manuals, Essay, Document, News article, Video
+- **Specializations**: Technical translation, Essay, Document, News article, Video
 
 # Sample Work
 
