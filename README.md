@@ -7,8 +7,8 @@
 
 # About Me
 Hello, my name is Chungma Park, and I am currently based in Australia. I have a deep passion for languages and translation, 
-with extensive experience translating between English and Korean in both directions. My expertise spans various fields, 
-including information technology, mechanical engineering, academic essays, news articles, and video content translation.
+with extensive experience translating between English and Korean in both directions. My expertise including information technology, 
+mechanical engineering, academic essays, news articles, and video content translation.
 I pride myself on being dedicated, detail-oriented, and committed to meeting the unique needs of each client. 
 My goal is to deliver translations that are not only accurate but also culturally appropriate and contextually meaningful. 
 I constantly strive to enhance my flexibility and efficiency in managing projects to ensure the highest quality outcomes.
