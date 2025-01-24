@@ -6,7 +6,9 @@
 - **LinkedIn**: www.linkedin.com/in/chungman-park-363703178
 
 # About Me
-Hello, my name is Chungma Park, and I am currently based in Australia. I have a deep passion for languages and translation, 
+Hello, my name is Chungma Park, and I am currently based in Australia. 
+
+I have a deep passion for languages and translation, 
 with extensive experience translating between English and Korean in both directions. 
 
 
