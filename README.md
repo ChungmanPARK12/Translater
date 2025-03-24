@@ -1,43 +1,52 @@
- 
- # [Chungman PARK] - Translator
+# 🌍 Chungman PARK – Professional Translator  
+**English ↔ Korean Specialist**
 
-- **Email**: parkssi12@gmail.com
-- **Phone**: +61 411 369 270
-- **LinkedIn**: www.linkedin.com/in/chungman-park-363703178
+📧 **Email**: parkssi12@gmail.com  
+📞 **Phone**: +61 411 369 270  
+🔗 **LinkedIn**: [linkedin.com/in/chungman-park-363703178](https://www.linkedin.com/in/chungman-park-363703178)
 
-# About Me
-Hello, my name is Chungma Park, and I am currently based in Australia. 
+---
 
-I have a deep passion for languages and translation, 
-with extensive experience translating between English and Korean in both directions. 
+## 🧑‍💼 About Me
 
+Hello! I’m **Chungman Park**, a passionate and detail-oriented translator based in Australia with extensive experience translating between **English and Korean**.
 
-My expertise including information technology, mechanical engineering, academic essays, news articles, and video content translation.
+My work spans a variety of domains including:
+- **Information Technology**
+- **Mechanical Engineering**
+- **Academic Essays**
+- **News Articles**
+- **Multimedia/Video Content**
 
+I am dedicated to delivering translations that are:
+- ✅ **Accurate**
+- 🌐 **Culturally appropriate**
+- 🧠 **Contextually meaningful**
 
-I pride myself on being dedicated, detail-oriented, and committed to meeting the unique needs of each client. 
+I pride myself on my flexibility, efficiency, and commitment to quality — always aiming to meet the unique needs of each client with precision and professionalism. 
 
+I'm confident in my ability to bridge language gaps and bring value to every project I work on.
 
-My goal is to deliver translations that are not only accurate but also culturally appropriate and contextually meaningful. 
+---
 
+## 🛠️ Skills
 
-I constantly strive to enhance my flexibility and efficiency in managing projects to ensure the highest quality outcomes.
+- **Languages**: English, Korean  
+- **Specializations**:
+  - Technical Translation
+  - Academic Essays
+  - Formal Documents
+  - News & Journalism
+  - Subtitling / Video Translations
 
+---
 
-With my skills and determination, I am confident in my ability to bridge language gaps and contribute effectively as a translator. 
-I look forward to the opportunity to collaborate and support your translation needs.
+## 📂 Sample Work
 
-# Skills
-- **Languages**: English, Korean
-- **Specializations**: Technical translation, Essay, Document, News article, Video
+- ✍️ **Essay Translation** – [View Sample](samples/Essay/README.md)  
+- 📰 **News Article Translation** – [View Sample](samples/Article/README.md)  
+- 🎬 **Video Translation / Subtitles** – [View Sample](samples/Video/README.md)
 
-# Sample Work
+---
 
-* ### Essay [Click here](samples/Essay/README.md)
-
-* ### Article [Click here](samples/Article/README.md)
-
-* ### Video [Click here](samples/Video/README.md)
-
-
-
+📩 *I look forward to collaborating with you on your next translation project!*
